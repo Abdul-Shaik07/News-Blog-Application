@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api
+news:
+  api:
+    key: e93ac95390c14fa8bce6d1b3f8371f6d
